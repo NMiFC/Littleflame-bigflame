@@ -1,0 +1,14 @@
+# Ignore OS & editor junk
+.DS_Store
+Thumbs.db
+*.swp
+
+# Ignore logs or temp files
+*.log
+*.tmp
+
+# Ignore compiled media or builds
+*.mp4
+*.mov
+*.wav
+*.mp3
