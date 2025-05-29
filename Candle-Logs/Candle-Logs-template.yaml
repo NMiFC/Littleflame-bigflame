@@ -1,0 +1,17 @@
+# Template: Candle Log Entry
+
+date: 2025-06-XX
+candle_id: candle-XXX
+scent: ""
+tier: accessible  # or: supporter
+price_usd: 0
+payment_method: cash  # or: BTC
+btc_amount: null  # leave null if paid in cash
+youth_worker:
+  id: YXX
+  hours: 0
+  pay_rate: 12
+label_art: ""
+status: poured  # options: poured, sold, delivered, donated
+notes: >
+  Add any special observations here. Wax behavior, label issues, scent strength, etc.
