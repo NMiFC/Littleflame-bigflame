@@ -1,0 +1,2 @@
+date,candle_id,tier,price_usd,payment_method,btc_amount,btc_usd_rate,usd_equivalent,buyer_type,delivery_status,notes
+2025-06-XX,candle-XXX,accessible,25,cash,,,,retail,pending,First sale — add conversion rate if BTC used.
