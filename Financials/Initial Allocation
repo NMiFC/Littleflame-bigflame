@@ -26,6 +26,9 @@
 
 ## 🔐 Bitcoin Treasury Ledger
 
+**Cold Storage Wallet Address:**  
+`1KoL2VHyt8BAUuDgve2zy8oaJMwzzYuWEt`
+
 | Date       | Action                   | BTC Amount     | Price (USD)   | Notes                          |
 |------------|--------------------------|----------------|---------------|--------------------------------|
 | 2025-06-01 | BTC Buy                  | 0.01867        | $106,047.10   | First BTC purchase             |
@@ -36,4 +39,4 @@
 ---
 
 ## Summary
-This allocation balances short-term needs with long-term resilience and treasury growth. BTC is stored in cold custody with no exchange exposure.
+This allocation balances short-term needs with long-term resilience and treasury growth. BTC is stored in cold custody at the above address with no exchange exposure. All treasury movements will be transparently logged.
