@@ -65,6 +65,30 @@ We’ll be releasing:
 You don’t need permission. Just light your flame.
 
 ---
+# 🤝 Support Notes
+
+This folder holds direct support messages from Travis Price and Northern Michigan Firewood Co — written to individuals during moments of need, loss, or transition.
+
+These are not donations.  
+These are **investments in people** who build culture, tell the truth, and carry light — even when it’s hard.
+
+We believe in:
+- Quiet support that expects nothing in return
+- Collaborations born from trust, not contracts
+- Building the world we want by backing people we believe in
+
+## ✉️ Current Notes
+
+- `Support_Note_Franchesca_2025-06-01.md` — Gear loss support and invitation to collaborate with *Little Flame, Big Flame*
+
+---
+
+## ⚠️ Transparency Notice
+
+Northern Michigan Firewood Co operates in **Michigan, a one-party consent state**.  
+Any direct messages, calls, or in-person conversations may be documented or summarized internally for continuity, recordkeeping, or reflection — especially when they relate to crew development, mutual aid, or cultural collaboration.
+
+This is never for exploitation. It's for building with clarity, protecting trust, and making sure the stories we tell — and the support we offer — are remembered the way they deserve to be.
 
 ## 🤝 Support & Contact
 
