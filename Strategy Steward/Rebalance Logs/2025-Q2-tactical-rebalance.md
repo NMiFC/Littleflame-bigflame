@@ -1,7 +1,7 @@
 
 # 2025 Q2 Tactical Rebalance Report
 
-**Date:** [Insert Date Here]  
+**Date:** 6/7/25  
 **Prepared by:** Strategy Steward  
 **Objective:** Realign portfolio to NMFC target allocations while accounting for tax liabilities and maintaining exposure to key growth assets.
 
