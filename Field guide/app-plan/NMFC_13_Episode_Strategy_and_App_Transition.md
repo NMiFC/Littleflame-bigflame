@@ -1,6 +1,6 @@
 # NMFC 13-Episode Strategy & 24-Month App Transition Plan
 
-This document outlines the content architecture and platform strategy for Northern Michigan Firewood Company (NMFC), integrating foundational ethos, a 13-episode YouTube series, a Shorts cadence, and a 24-month transition to a fully independent app-based infrastructure.
+This document outlines the content architecture and platform strategy for Northern Michigan Firewood Company (NMFC), integrating foundational ethos, a 13-episode YouTube series, a Shorts cadence, and a 24-month transition to a fully independent, **mobile-first** app-based infrastructure.
 
 ---
 
@@ -42,6 +42,7 @@ Each episode is:
 ## 🎥 Weekly Shorts Rhythm
 
 * **2 per week** minimum
+* Best days: **Monday** and **Wednesday**
 * Mix of:
 
   * Observations (e.g., weather, burned quote lids, wax pouring)
@@ -51,7 +52,21 @@ Each episode is:
 
 ---
 
+## 🗓️ Weekly Content Schedule (Max: 5 days/week, 2 hrs/day)
+
+| Day           | Focus Area                               | Description                                                              |
+| ------------- | ---------------------------------------- | ------------------------------------------------------------------------ |
+| **Monday**    | 🎬 *Short 1 Production + Post*           | Ethos drop, observational or philosophical Short to start the week       |
+| **Tuesday**   | 📜 *Field Guide & Ledger Writing*        | Builder’s notes, BTC ledger entries, philosophy writing or crew insights |
+| **Wednesday** | 🎬 *Short 2 Production + Post*           | Insight, cultural pushback, BTC or identity-based follow-up Short        |
+| **Thursday**  | 🧱 *App Planning & Infrastructure Tasks* | Low-pressure tasks: mockups, BTC tip structure, UI notes, sketches       |
+| **Friday**    | 🎥 *Longform Episode Work*               | Script, edit, or film the monthly anchor episode or prep narrative       |
+
+---
+
 ## 📲 Phase II: 24-Month App Transition (via YouTube)
+
+**Note: All phases assume a mobile-first design approach, with seamless access on Android/iOS devices.**
 
 ### 📅 Phase 0: Foundations (Now – July 2025)
 
@@ -88,7 +103,7 @@ Each episode is:
   * All youth coordination & internal updates
   * All video, music, ledger, treasury, and culture archives
   * Volunteer onboarding, care referrals, BTC strategy
-* Final 13th episode announces shift: "We’re not just making content. We built the infrastructure.”
+* Final 13th episode announces shift: "We’re not just making content. We built the infrastructure."
 
 ---
 
